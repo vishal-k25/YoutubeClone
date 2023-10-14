@@ -1,4 +1,5 @@
 import React from "react";
+import VideoCard from "./VideoCard";
 import { Stack, Box } from "@mui/material";
 
 import  ChannelCard  from './ChannelCard';
