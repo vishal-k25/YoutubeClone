@@ -39,6 +39,11 @@ a {
   width: 100% !important;
 }
 
+.react-player-2 {
+  height: 100% !important;
+  width: 100% !important;
+}
+
 .search-bar{
   border:none;
   outline:none;
@@ -60,6 +65,12 @@ a {
   margin: 10px 0px;
   border-radius: 20px;
   transition: all 0.3s ease;
+}
+
+.stream{
+  left: 0px;
+  height: 100%;
+  width: 100%;
 }
 
 @media screen and (max-width: 900px) {
